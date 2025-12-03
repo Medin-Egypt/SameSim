@@ -144,5 +144,10 @@ What happens: Interactive testing with live parameter adjustment
 </tr>
 </table>
 
+</div>   
 
+# Supervised By
+
+* **Prof. Tamer Basha**                              
+* **Eng. Alaa Tarek**   
 
