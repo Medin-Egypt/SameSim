@@ -28,8 +28,8 @@ Perfect for:
 ![Tissue Cutting](assets/cut.gif)
 
 **Blood flow Simulation:**
-* Particle system based blood flow simulation
-* Simmulation in aorta of a beating heart
+* Particle-based blood flow simulation
+* Aortic blood flow simulation with a beating heart model
 * Flow blockage simulation
 
 ![Blood Flow](assets/flow.gif)
