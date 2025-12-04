@@ -16,7 +16,7 @@ Perfect for:
 * Permanent Deformation: Cut areas retain their deformation state
 * Edge Anchoring: Natural tissue behavior with edge stabilization
 
-Show Image  
+![Tissue Deformation](assets/deform.gif)
 
 **Surgical Tools:**
 
@@ -25,15 +25,29 @@ Show Image
 * Cutting Mechanics: Raycast-based precision cutting system  
 * Tool Radius Control: Adjustable influence area for each tool
 
-Show Image    
+![Tissue Cutting](assets/cut.gif)
+
+**Blood flow Simulation:**
+* Particle system based blood flow simulation
+* Simmulation in aorta of a beating heart
+* Flow blockage simulation
+
+![Blood Flow](assets/flow.gif)
+
+**Pull interaction:**
+* Removable objects
+* Teeth extraction simulation
+* Force threshold
+* Teeth loosening wiggling animation
+
+![Teeth Pull](assets/pull.gif)
+
 
 **VR Integration:**
 
 * Touch-Based Interaction: Direct hand-to-tissue manipulation
 * Haptic Feedback: Controller vibration on tissue contact
 * Visual Feedback: Real-time ray indicators and color coding
-
-Show Image
 
 ##  Contributors
 
